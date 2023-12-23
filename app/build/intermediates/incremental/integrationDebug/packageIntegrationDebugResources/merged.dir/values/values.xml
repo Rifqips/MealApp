@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#0A6DBC</color>
+    <color name="grey">#F3F1F1</color>
+    <color name="grey_font">#B4B4B4</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="a">a</string>
+    <string name="app_name">TheMealIDBApp</string>
+    <string name="meals_not_found">Meals Not Found</string>
+    <string name="text_all" translatable="false">b</string>
+    <style name="Base.Theme.TheMealIDBApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.TheMealIDBApp" parent="Base.Theme.TheMealIDBApp"/>
+</resources>

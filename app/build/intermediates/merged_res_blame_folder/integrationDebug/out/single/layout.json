@@ -1,50 +1,46 @@
 [
     {
-        "merged": "C:\\Users\\ikapu\\.gradle\\daemon\\8.0\\id.rifqipadisiliwangi.themealidbapp-mergeIntegrationDebugResources-57:\\layout\\activity_bookmark.xml",
-        "source": "C:\\Users\\ikapu\\.gradle\\daemon\\8.0\\id.rifqipadisiliwangi.themealidbapp-main-62:\\layout\\activity_bookmark.xml"
-    },
-    {
-        "merged": "C:\\Users\\ikapu\\.gradle\\daemon\\8.0\\id.rifqipadisiliwangi.themealidbapp-mergeIntegrationDebugResources-57:\\layout\\activity_dashboard.xml",
-        "source": "C:\\Users\\ikapu\\.gradle\\daemon\\8.0\\id.rifqipadisiliwangi.themealidbapp-main-62:\\layout\\activity_dashboard.xml"
-    },
-    {
-        "merged": "C:\\Users\\ikapu\\.gradle\\daemon\\8.0\\id.rifqipadisiliwangi.themealidbapp-mergeIntegrationDebugResources-57:\\layout\\item_grid_menu.xml",
-        "source": "C:\\Users\\ikapu\\.gradle\\daemon\\8.0\\id.rifqipadisiliwangi.themealidbapp-main-62:\\layout\\item_grid_menu.xml"
-    },
-    {
-        "merged": "C:\\Users\\ikapu\\.gradle\\daemon\\8.0\\id.rifqipadisiliwangi.themealidbapp-mergeIntegrationDebugResources-57:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\ikapu\\.gradle\\daemon\\8.0\\id.rifqipadisiliwangi.themealidbapp-main-62:\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\ikapu\\.gradle\\daemon\\8.0\\id.rifqipadisiliwangi.themealidbapp-mergeIntegrationDebugResources-57:\\layout\\activity_detail_meals.xml",
-        "source": "C:\\Users\\ikapu\\.gradle\\daemon\\8.0\\id.rifqipadisiliwangi.themealidbapp-main-62:\\layout\\activity_detail_meals.xml"
-    },
-    {
-        "merged": "C:\\Users\\ikapu\\.gradle\\daemon\\8.0\\id.rifqipadisiliwangi.themealidbapp-mergeIntegrationDebugResources-57:\\layout\\bottom_sheet_filter_categories.xml",
-        "source": "C:\\Users\\ikapu\\.gradle\\daemon\\8.0\\id.rifqipadisiliwangi.themealidbapp-main-62:\\layout\\bottom_sheet_filter_categories.xml"
-    },
-    {
-        "merged": "C:\\Users\\ikapu\\.gradle\\daemon\\8.0\\id.rifqipadisiliwangi.themealidbapp-mergeIntegrationDebugResources-57:\\layout\\activity_splash.xml",
-        "source": "C:\\Users\\ikapu\\.gradle\\daemon\\8.0\\id.rifqipadisiliwangi.themealidbapp-main-62:\\layout\\activity_splash.xml"
-    },
-    {
         "merged": "id.rifqipadisiliwangi.themealidbapp-mergeIntegrationDebugResources-57:/layout/item_linear_menu.xml",
         "source": "id.rifqipadisiliwangi.themealidbapp-main-62:/layout/item_linear_menu.xml"
     },
     {
-        "merged": "C:\\Users\\ikapu\\.gradle\\daemon\\8.0\\id.rifqipadisiliwangi.themealidbapp-mergeIntegrationDebugResources-57:\\layout\\item_linear_menu.xml",
-        "source": "C:\\Users\\ikapu\\.gradle\\daemon\\8.0\\id.rifqipadisiliwangi.themealidbapp-main-62:\\layout\\item_linear_menu.xml"
+        "merged": "id.rifqipadisiliwangi.themealidbapp-mergeIntegrationDebugResources-57:/layout/activity_detail_meals.xml",
+        "source": "id.rifqipadisiliwangi.themealidbapp-main-62:/layout/activity_detail_meals.xml"
     },
     {
-        "merged": "C:\\Users\\ikapu\\.gradle\\daemon\\8.0\\id.rifqipadisiliwangi.themealidbapp-mergeIntegrationDebugResources-57:\\layout\\common_layout_content_state.xml",
-        "source": "C:\\Users\\ikapu\\.gradle\\daemon\\8.0\\id.rifqipadisiliwangi.themealidbapp-main-62:\\layout\\common_layout_content_state.xml"
+        "merged": "id.rifqipadisiliwangi.themealidbapp-mergeIntegrationDebugResources-57:/layout/activity_bookmark.xml",
+        "source": "id.rifqipadisiliwangi.themealidbapp-main-62:/layout/activity_bookmark.xml"
     },
     {
-        "merged": "C:\\Users\\ikapu\\.gradle\\daemon\\8.0\\id.rifqipadisiliwangi.themealidbapp-mergeIntegrationDebugResources-57:\\layout\\bottom_sheet_filter_areas.xml",
-        "source": "C:\\Users\\ikapu\\.gradle\\daemon\\8.0\\id.rifqipadisiliwangi.themealidbapp-main-62:\\layout\\bottom_sheet_filter_areas.xml"
+        "merged": "id.rifqipadisiliwangi.themealidbapp-mergeIntegrationDebugResources-57:/layout/activity_main.xml",
+        "source": "id.rifqipadisiliwangi.themealidbapp-main-62:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\ikapu\\.gradle\\daemon\\8.0\\id.rifqipadisiliwangi.themealidbapp-mergeIntegrationDebugResources-57:\\layout\\dialog_filter_letter.xml",
-        "source": "C:\\Users\\ikapu\\.gradle\\daemon\\8.0\\id.rifqipadisiliwangi.themealidbapp-main-62:\\layout\\dialog_filter_letter.xml"
+        "merged": "id.rifqipadisiliwangi.themealidbapp-mergeIntegrationDebugResources-57:/layout/common_layout_content_state.xml",
+        "source": "id.rifqipadisiliwangi.themealidbapp-main-62:/layout/common_layout_content_state.xml"
+    },
+    {
+        "merged": "id.rifqipadisiliwangi.themealidbapp-mergeIntegrationDebugResources-57:/layout/activity_dashboard.xml",
+        "source": "id.rifqipadisiliwangi.themealidbapp-main-62:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "id.rifqipadisiliwangi.themealidbapp-mergeIntegrationDebugResources-57:/layout/item_grid_menu.xml",
+        "source": "id.rifqipadisiliwangi.themealidbapp-main-62:/layout/item_grid_menu.xml"
+    },
+    {
+        "merged": "id.rifqipadisiliwangi.themealidbapp-mergeIntegrationDebugResources-57:/layout/bottom_sheet_filter_categories.xml",
+        "source": "id.rifqipadisiliwangi.themealidbapp-main-62:/layout/bottom_sheet_filter_categories.xml"
+    },
+    {
+        "merged": "id.rifqipadisiliwangi.themealidbapp-mergeIntegrationDebugResources-57:/layout/dialog_filter_letter.xml",
+        "source": "id.rifqipadisiliwangi.themealidbapp-main-62:/layout/dialog_filter_letter.xml"
+    },
+    {
+        "merged": "id.rifqipadisiliwangi.themealidbapp-mergeIntegrationDebugResources-57:/layout/bottom_sheet_filter_areas.xml",
+        "source": "id.rifqipadisiliwangi.themealidbapp-main-62:/layout/bottom_sheet_filter_areas.xml"
+    },
+    {
+        "merged": "id.rifqipadisiliwangi.themealidbapp-mergeIntegrationDebugResources-57:/layout/activity_splash.xml",
+        "source": "id.rifqipadisiliwangi.themealidbapp-main-62:/layout/activity_splash.xml"
     }
 ]

@@ -1,19 +1,19 @@
-#Sat Dec 23 22:01:27 WIB 2023
-base.0=D\:\\rifqi\\TheMealIDBApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeExtDexIntegrationDebug\\classes.dex
-base.1=D\:\\rifqi\\TheMealIDBApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\0\\classes.dex
-base.10=D\:\\rifqi\\TheMealIDBApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\6\\classes.dex
-base.11=D\:\\rifqi\\TheMealIDBApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\7\\classes.dex
-base.12=D\:\\rifqi\\TheMealIDBApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\8\\classes.dex
-base.13=D\:\\rifqi\\TheMealIDBApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\9\\classes.dex
-base.14=D\:\\rifqi\\TheMealIDBApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeExtDexIntegrationDebug\\classes2.dex
-base.2=D\:\\rifqi\\TheMealIDBApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\10\\classes.dex
-base.3=D\:\\rifqi\\TheMealIDBApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\11\\classes.dex
-base.4=D\:\\rifqi\\TheMealIDBApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\12\\classes.dex
-base.5=D\:\\rifqi\\TheMealIDBApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\13\\classes.dex
-base.6=D\:\\rifqi\\TheMealIDBApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\15\\classes.dex
-base.7=D\:\\rifqi\\TheMealIDBApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\2\\classes.dex
-base.8=D\:\\rifqi\\TheMealIDBApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\4\\classes.dex
-base.9=D\:\\rifqi\\TheMealIDBApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\5\\classes.dex
+#Sat Dec 23 22:25:26 WIB 2023
+base.0=D\:\\rifqi\\TheMealIDBApp\\MealApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeExtDexIntegrationDebug\\classes.dex
+base.1=D\:\\rifqi\\TheMealIDBApp\\MealApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\0\\classes.dex
+base.10=D\:\\rifqi\\TheMealIDBApp\\MealApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\6\\classes.dex
+base.11=D\:\\rifqi\\TheMealIDBApp\\MealApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\7\\classes.dex
+base.12=D\:\\rifqi\\TheMealIDBApp\\MealApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\8\\classes.dex
+base.13=D\:\\rifqi\\TheMealIDBApp\\MealApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\9\\classes.dex
+base.14=D\:\\rifqi\\TheMealIDBApp\\MealApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeExtDexIntegrationDebug\\classes2.dex
+base.2=D\:\\rifqi\\TheMealIDBApp\\MealApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\10\\classes.dex
+base.3=D\:\\rifqi\\TheMealIDBApp\\MealApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\11\\classes.dex
+base.4=D\:\\rifqi\\TheMealIDBApp\\MealApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\12\\classes.dex
+base.5=D\:\\rifqi\\TheMealIDBApp\\MealApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\13\\classes.dex
+base.6=D\:\\rifqi\\TheMealIDBApp\\MealApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\15\\classes.dex
+base.7=D\:\\rifqi\\TheMealIDBApp\\MealApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\2\\classes.dex
+base.8=D\:\\rifqi\\TheMealIDBApp\\MealApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\4\\classes.dex
+base.9=D\:\\rifqi\\TheMealIDBApp\\MealApp\\app\\build\\intermediates\\dex\\integrationDebug\\mergeProjectDexIntegrationDebug\\5\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.10=6/classes.dex

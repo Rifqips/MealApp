@@ -4,6 +4,25 @@
             "outputFile": "id.rifqipadisiliwangi.themealidbapp-mergeIntegrationDebugResources-56:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
+                    "source": "D:\\rifqi\\TheMealIDBApp\\MealApp\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "325"
+                    },
+                    "to": {
+                        "startLines": "26",
+                        "startColumns": "4",
+                        "startOffsets": "1471",
+                        "endLines": "29",
+                        "endColumns": "12",
+                        "endOffsets": "1587"
+                    }
+                },
+                {
                     "source": "C:\\Users\\ikapu\\.gradle\\caches\\transforms-3\\dfe746543de8f5e1db08d12c0b22c1c6\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -28,25 +47,6 @@
                         "startOffsets": "55,119,178,232,294,351,410,471,530,586,650,708,764,828,889,963,1025,1082,1141,1194,1247,1300,1357,1412",
                         "endColumns": "63,58,53,61,56,58,60,58,55,63,57,55,63,60,73,61,56,58,52,52,52,56,54,58",
                         "endOffsets": "114,173,227,289,346,405,466,525,581,645,703,759,823,884,958,1020,1077,1136,1189,1242,1295,1352,1407,1466"
-                    }
-                },
-                {
-                    "source": "D:\\rifqi\\TheMealIDBApp\\app\\src\\main\\res\\values-night\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "102",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "325"
-                    },
-                    "to": {
-                        "startLines": "26",
-                        "startColumns": "4",
-                        "startOffsets": "1471",
-                        "endLines": "29",
-                        "endColumns": "12",
-                        "endOffsets": "1587"
                     }
                 },
                 {
