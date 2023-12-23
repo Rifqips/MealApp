@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheMealIDBApp</string>
+    <string name="a">a</string>
+    <string name="meals_not_found">Meals Not Found</string>
+
+    <string name="text_all" translatable="false">b</string>
+</resources>
